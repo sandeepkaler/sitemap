@@ -1,0 +1,2 @@
+# sitemap
+PHP Simple Sitemap
